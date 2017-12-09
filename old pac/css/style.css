@@ -1,0 +1,184 @@
+.{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: darkgrey;
+    width: 100%;
+}
+
+.header{
+    background-color: blanchedalmond;
+    width: 1345px;
+    margin-left: 10px;
+    height: 70px;
+    
+}
+.header p{
+    float: left;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.header ul{
+    list-style: none;
+    margin-right: 100px;
+}
+.header ul li{
+    float: right;
+    position: relative;
+    width: 100px;
+    height: 40px;
+    background-color: blanchedalmond;
+}
+.header ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+    margin: px;
+    padding: px; 
+}
+.header ul li a:hover{
+    background-color: ;
+}
+.header ul ul{
+    position: absolute;
+    display:none;
+    margin-top: 0px;
+}
+.header ul li:hover > ul{
+    display: block;
+}
+.header ul ul ul{
+    margin-left: 60px;
+    top: 0px;
+    margin-bottom:20px;
+}
+.slider{
+    background-color: blanchedalmond;
+    width: 1345px;
+    height: 550px;
+    margin-left: 10px;
+}
+.main-body{
+    background-color: blanchedalmond;
+    width: 1345px;
+    height: 720px;
+    margin-left: 10px;
+    top: 0px;
+}
+.body{
+    margin-left: 30px;
+    top: 0px;
+}
+.new{
+    float: left;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+.new ul{
+    list-style: none;
+}
+.new ul li{
+    background-color:wheat;
+    width: 170px;
+    height: 30px;
+    border: 1px solid white;
+    left: 0px;
+}
+.new ul li a{
+    text-decoration: none;
+}
+.new button{
+    background-color: bisque;
+    width: 220px;
+    text-align: left;
+}
+.new h2{
+    font-size: 29px;
+    color: black;
+}
+.new p{
+    font-size: 13px;
+}
+.gallery{
+    background-color: blanchedalmond;
+    width: 1345px;
+    height: 550px;
+    margin-left: 10px;
+    top: 0px;
+}
+.image{
+    float: left;
+    border: 2px solid black;
+     
+}
+.image{
+    opacity: .5;
+    margin:5px;
+    
+}
+.image:hover{
+    opacity: 1;
+}
+.link-up{
+    
+}
+.footer-up{
+    float: left;
+    width: 330px;
+    margin-top: 20px;
+}
+.footer-up h2{
+    font-size: 25px;
+    text-align: justify;
+}
+.footer-up button{
+    width: 200px;
+    text-align: left;
+    background-color: darkgrey;
+}
+.footer-up form button{
+    text-align: center;
+    width: 80px;
+    margin-left: 70px;
+    margin-top: 10px;
+    background-color: aquamarine;
+    border-radius: 8px;
+}
+.footer{
+    width: 1345px;
+    height: 60px;
+    background-color:
+    margin-left: 10px;
+    margin-top: px;
+}
+.footer p{
+    float: left;
+    margin-top: 50px;
+    margin-right: 
+}
+.footer ul{
+    list-style: none;
+}
+.footer ul li{
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
